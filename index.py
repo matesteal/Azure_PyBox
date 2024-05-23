@@ -48,4 +48,5 @@ def main(pag):
     pag.add(tittle, button_start)
 
 #ft.app(main)
+#a
 ft.app(main, view=ft.WEB_BROWSER)
