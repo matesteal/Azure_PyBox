@@ -47,6 +47,6 @@ def main(pag):
     button_start = ft.ElevatedButton("Iniciar chat", on_click=start_chat)
     pag.add(tittle, button_start)
 
-#ft.app(main)
+ft.app(main)
 #a
-ft.app(main, view=ft.WEB_BROWSER)
+#ft.app(main, view=ft.WEB_BROWSER)
